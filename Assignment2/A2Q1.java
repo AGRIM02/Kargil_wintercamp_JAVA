@@ -102,6 +102,5 @@ public class A2Q1 {
                 System.out.println("*********************************");
             }
         }
-
     }
 }
